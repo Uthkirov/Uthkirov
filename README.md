@@ -1,6 +1,6 @@
 
 
-##  Uthkirov Boburbek | JavaScript developer
+##  Uthkirov Bekhruzbek | JavaScript developer
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;)
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -40,6 +40,6 @@
 
 ### Contact With Me
 
-![emailto:boburbek.utkirov10@gmail.com](https://img.shields.io/badge/-Boburbek.uthkirov@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
+![emailto:uthkirovbekhruzbek7@gmail.com](https://img.shields.io/badge/-Boburbek.uthkirov@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/boburbek_uthkirov)
 
